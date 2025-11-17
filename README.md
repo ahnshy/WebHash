@@ -213,10 +213,10 @@ Core logic for uploading and hashing files:
 npm install
 
 # start dev server (http://localhost:3000)
-npm run dev
+next dev
 
 # type check & build production bundle
-npm run build
+next build
 ```
 
 ---
