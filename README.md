@@ -85,7 +85,8 @@ Supports **drag & drop** and **file picker** uploads, computes multiple hash alg
 ## 🌐 Live Demo
 
 - Local dev (default): http://localhost:3000  
-- Production: *(add your deployment URL here, e.g. Vercel)*
+- Production: *https://web-hash.vercel.app/*
+<img width="967" height="985" alt="image" src="https://github.com/user-attachments/assets/2aae463b-c3b2-458b-9727-41cf1a609383" />
 
 ---
 
